@@ -1,0 +1,36 @@
+* {
+    font-family: sans-serif, 'Roboto';
+}
+.logo {
+    width: 200px;
+    margin-top: 15px;
+}
+.wrapper {
+    background-color: #1f2937;
+    color: white;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+}
+div {
+    margin: 10px 0px 10px 0px;
+}
+ul {
+    display: flex;
+    gap: 15px;
+    list-style-type: none;
+}
+.hero {
+    display: flex;
+    justify-content: space-evenly;
+}
+.hero2 {
+    width: 500px;
+    margin-top: 15px;
+}
+.title {
+    font-weight: bolder;
+    font-size: 48px;
+}
