@@ -93,3 +93,10 @@ ul {
 h3 {
     font-size: 2rem;
 }
+footer {
+    background: black;
+    color: wheat;
+    padding-top: 50px;
+    text-align: center;
+    height: 50px;
+}
